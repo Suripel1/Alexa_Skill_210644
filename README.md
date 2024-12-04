@@ -13,7 +13,7 @@
 
 | NO. | Nombre | Potenciador | Estatus| 
 |--|--|--|--|
-|1|Metodología de evaluación de la asignatura|1|Finalizada|
+|1|Configuracion de Alexa|Por definir|Activa|
 
 <br>
 <h2> Objetivo </h2>
