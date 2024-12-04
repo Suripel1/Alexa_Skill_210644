@@ -9,14 +9,15 @@
 <h2 align="center"> Skill_Alexa_210644 </h2>
 <h2 align="center"> Por: Suri Jazmin Peña Lira </h2>
 <br>
-### HISTORIAL DE PRÁCTICAS:
-|No.|Nombre|Potenciador|Estatus|
+
+
+| NO. | Nombre | Potenciador | Estatus| 
 |--|--|--|--|
-|25|Skill Alexa|10|Activa|
+|1|Metodología de evaluación de la asignatura|1|Finalizada|
 
 <br>
 <h2> Objetivo </h2>
-Desarrollar una skill para Alexa que permita a los usuarios acceder de manera sencilla a información o servicios mediante comandos de voz, mejorando su experiencia al automatizar tareas, brindar entretenimiento o resolver necesidades específicas.
+Desarrollar una skill para Alexa para poder acceder al clima mediante la ubicacion
 <br>
 <h2 align="center"> Pasos para realizar la skill </h2>
 <br>
