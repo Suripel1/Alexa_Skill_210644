@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "Clima",
+          "samples": [
+            "Como estara el clima hoy ",
+            "Dame el clima",
+            "Hara sol hoy",
+            "Me llevo sueter",
+            "Va a hacer calor"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "clima suri"
+    }
+  }
+}
